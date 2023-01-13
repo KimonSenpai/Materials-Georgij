@@ -34,3 +34,5 @@ for line in f:
     pair_count += count_val[-val%4][j]
   count_val[val%4][d] += 1
 print(pair_count)
+
+
